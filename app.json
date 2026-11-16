@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "LabSpace",
+    "slug": "labspace-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.student.labspace"
+    },
+    "android": {
+      "package": "com.student.labspace",
+      "adaptiveIcon": {
+        "backgroundColor": "#193B56"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
